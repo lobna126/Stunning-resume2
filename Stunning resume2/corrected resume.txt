@@ -1,0 +1,23 @@
+Resume
+John Doe
+📞 +1 123-456-7890 | 📧 johndoe@email.com | LinkedIn: linkedin.com/in/johndoe
+Professional Experience
+Project Manager
+Innovative Company – New York, USA
+2020 - Present
+● Managed various projects successfully.
+● Improved company processes.
+● Worked with several teams to complete tasks.
+Web Developer
+Startup Dynamic – Los Angeles, USA
+May 2018 – December 2019
+● Developed an e-commerce platform using React, Node.js, and MongoDB.
+● Designed and implemented secure payment systems with Stripe API.
+Education
+● Master’s in Computer Science – University of California, 2016–2018
+● Bachelor’s in Computer Science – University of Los Angeles, 2012–2016
+Skills
+● Team Leadership, Communication, Agile Methodology, Docker, Python
+Languages
+● English (Fluent)
+● French (Intermediate)

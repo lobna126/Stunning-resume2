@@ -1,0 +1,68 @@
+Here are the 5 mistakes in the resume:
+
+1- Incomplete Information in "Languages" Section: The "Languages" section lists French without a proficiency 
+level, making it unclear.
+
+Fix: Add the proficiency level for French. Example:
+
+scss
+Copier
+Modifier
+Languages
+● English (Fluent)
+● French (Intermediate)
+
+2- Dates Format Inconsistency: The formatting for the years of employment and education is inconsistent. 
+The "Project Manager" role uses a full date range, while other roles and education use a partial format.
+
+Fix: Standardize the date format for consistency. Example:
+
+yaml
+Copier
+Modifier
+Professional Experience
+Project Manager
+Innovative Company – New York, USA
+2020 - Present
+
+Web Developer
+Startup Dynamic – Los Angeles, USA
+May 2018 – December 2019
+
+3- Lack of Details in "Web Developer" Role: The job responsibilities are too vague. Mentioning "developed 
+a platform for e-commerce" and "created secure payment systems" could be expanded to describe specific 
+technologies and achievements.
+
+Fix: Provide more specific details about the tools, technologies, and accomplishments. Example:
+
+sql
+Copier
+Modifier
+Web Developer
+Startup Dynamic – Los Angeles, USA
+May 2018 – December 2019
+● Developed an e-commerce platform using React, Node.js, and MongoDB.
+● Designed and implemented secure payment systems with Stripe API.
+
+4- Missing Contact Information Details: The resume includes phone and email but lacks a physical address
+ (if needed) or a more specific LinkedIn URL (i.e., using a custom URL rather than a generic link).
+
+Fix: Customize the LinkedIn URL or remove the generic one, and add an address if relevant. Example:
+
+css
+Copier
+Modifier
+John Doe
+📞 +1 123-456-7890 | 📧 johndoe@email.com | LinkedIn: linkedin.com/in/johndoe
+
+5- Education Details Inconsistency: The "Bachelor's in Computer Science" degree lacks dates, which makes it 
+incomplete compared to the "Master's in Computer Science."
+
+Fix: Add the dates of the Bachelor's degree. Example:
+
+yaml
+Copier
+Modifier
+Education
+● Master’s in Computer Science – University of California, 2016–2018
+● Bachelor’s in Computer Science – University of Los Angeles, 2012–2016
